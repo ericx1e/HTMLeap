@@ -12,3 +12,9 @@ html {
     font-size: large;
     /* letter-spacing: 1px; */
 }
+
+#scoreboard {
+    color: black;
+    font-family: Courier;
+    font-size: x-large;
+}
